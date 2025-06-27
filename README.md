@@ -1,4 +1,4 @@
-# BisualLabDMR cleaned images
+# VisualLabDMR cleaned images
 
 This repository includes preprocessed and segmented breast thermography images derived from the Database for Mastology Research with Infrared Image (DMR-IR), originally captured at Antonio Pedro University Hospital. Only sequences acquired under the Dynamic Infrared Thermography (DIT) protocol were used. These images were obtained using a FLIR SC-620 IR camera with a resolution of 640×480 pixels, and a thermal stimulus was applied during acquisition to enhance vascular responses.
 
